@@ -28,3 +28,5 @@ cd your-repository
 ┣ 📜Jane_img.jpg
 ┗ 📜portfolio.css
 ```
+## Click here to view the project output
+[View project](https://jane-busienei.github.io/My_PLP_Project/)
