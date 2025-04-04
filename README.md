@@ -9,6 +9,11 @@ The project is about my portfolio website; It contains the sections below.
 - Projects
 - Contact Form
 
+##Technologies used
+- Scripting language: HTML
+- Styling: CSS
+- Tool: VS code, Git, Github
+
 ## How to install it
 ```bash
 git clone https://github.com/jane-busienei/My_PLP_Project.git
